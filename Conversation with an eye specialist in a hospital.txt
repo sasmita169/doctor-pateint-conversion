@@ -1,0 +1,50 @@
+Conversation with an eye specialist in a hospital
+This conversation involves not just the doctor, but also people conducting different tests and those at reception and billing desks in the hospital.
+Support: Good morning sir. How may I help you?
+Patient: Good morning. I had an appointment with the doctor at 9 AM.
+Support: Have you registered with us earlier?
+Patient: Yes.
+Support: Please show me your registration card. Or I can search for your details through your mobile number.
+Patient: That would be better. My mobile number is 989930xxx.
+(She searches for the patient’s past records on her computer.)
+Support: OK, I’ve found your details. You last visited us in August 2016.
+Patient: That’s right.
+Support: You can pay the doctor consultation fee here.
+Patient: Sure. Here is my card.
+(She swipes the card and hands over the invoice to the patient.)
+Support: Pl take a seat, and feel free to help yourself with water, newspapers etc.
+Patient: Thank you.
+(After 15-odd minutes, the attendant calls the patient’s name, following which the patient proceeds to the doctor’s cabin.)
+Patient: Good morning doctor.
+Doctor: Good morning. How’re you doing today?
+Patient: I’m fine. Thank you. How about you?
+Doctor: I’m good. So what brings you here?
+Patient: I’ve come for a regular checkup for a suspected case of glaucoma. I don’t have it, but few years back a doctor after examining my eye and knowing my family eye history advised me to undergo precautionary checkup once a year.
+(He puts the past reports on the table. The doctor peruses them.)
+Doctor: I see that your optic nerve is thicker than the normal. That’s probably the reason why you were asked to undergo precautionary tests every year. You can have the same two tests – visual field analysis and OCT – today and once you’ve the two reports, we can meet again in the afternoon.
+Patient: Alright.
+(The doctor scribbles the names of the two tests on his letterhead and pushes it across the table.)
+Patient: Thank you, doctor.
+(The patient leaves the doctor’s cabin and again approaches the reception desk.)
+Patient: I saw the doctor. He has asked for these two tests.
+(He pushes the prescription towards the billing lady.)
+Support: OK. The two tests will cost you xxx and you’ll get the reports in around two hours. Is that fine?
+Patient: That’s fine.
+(He slips his card toward her. She swipes it again and hands over the invoice a second time.)
+Support: Please be seated there. Someone will call you for the first test in few minutes.
+Patient: Thank you.
+(Over the next two hours, he undergoes the two tests and receives the reports. Thereafter, he meets the doctor again, this time with reports.)
+Doctor: I hope you had a smooth experience going through those tests.
+Patient: Yes, it was. And because I’ve taken these tests in the past too, I knew what was coming.
+(The patient pushes the reports toward the doctor. The doctor pores through the pages, looking at the colored images of the eye minutely.)
+Doctor: Your reports are absolutely fine. Since these reports haven’t shown anything suspect in so many years, I think you can now take these tests once in two years, and not once a year.
+Patient: OK.
+Doctor: Well, that puts glaucoma thing to rest. Does your work involve working on laptop for long hours?
+Patient: Yes.
+Doctor: In case your eyes get tired quickly, I would recommend xxx. It’s an eye drop, which you can use 2-3 times in the day. Our eyes get dry when we look at the computer screen without blinking for long, a common reason for tiredness in eyes. This eye drop will lubricate your eyes.
+Doctor: Do you’ve any other questions?
+Patient: Yes. I see few thin, black, wavy structures floating in front of my eyes and they don’t disappear even when I close my eyes. What are they? Are they harmful?
+Doctor: They’re called floaters, and most persons develop them to different extent as they age. They’re not harmful.
+Patient: Thank you doctor. Thanks for your time.
+Doctor: You’re welcome.
+

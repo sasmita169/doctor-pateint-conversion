@@ -1,0 +1,32 @@
+Conversation about fever and sore throat
+
+Patient: Good evening doctor.
+Doctor: Good evening. You look pale and your voice is out of tune.
+Patient: Yes doctor. I’m running a temperature and have a sore throat.
+
+
+Doctor: Lemme see.
+(He touches the forehead to feel the temperature.)
+Doctor: You’ve moderate fever.
+(He then whips out a thermometer.)
+Patient: This thermometer is very different from the one you used the last time. (Unlike the earlier one which was placed below the tongue, this one snapped around one of the fingers.)
+Doctor: Yes, this is a new introduction by medical equipment companies. It’s much more convenient, as it doesn’t require cleaning after every use.
+Patient: That’s awesome.
+Doctor: Yes it is.
+
+
+(He removes the thermometer and looks at the reading.)
+Doctor: Not too high – 99.8.
+(He then proceeds with measuring blood pressure.)
+Doctor: Your blood pressure is fine.
+(He then checks the throat.)
+Doctor: It looks bit scruffy. Not good.
+Patient: Yes, it has been quite bad.
+Doctor: Do you get sweating and shivering?
+Patient: Not sweating, but I feel somewhat cold when I sit under a fan.
+Doctor: OK. You’ve few symptoms of malaria. I would suggest you undergo blood test. Nothing to worry about. In most cases, the test come out to be negative. It’s just precautionary, as there have been spurt in malaria cases in the last month or so.
+(He then proceeds to write the prescription.)
+Doctor: I’m prescribing three medicines and a syrup. The number of dots in front of each tells you how many times in the day you’ve to take them. For example, the two dots here mean you’ve to take the medicine twice in the day, once in the morning and once after dinner.
+Doctor: Do you’ve any other questions?
+Patient: No, doctor. Thank you.
+
